@@ -1,0 +1,63 @@
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.exe
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.deps.json
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.json
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.dev.json
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.AssemblyReference.cache
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.GenerateResource.cache
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfoInputs.cache
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfo.cs
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.CoreCompileInputs.cache
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.genruntimeconfig.cache
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Client.resources
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.CreateAccount.resources
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Login.resources
+C:\Users\mattb\source\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Properties.Resources.resources
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.exe
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.deps.json
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.json
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.dev.json
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.AssemblyReference.cache
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Client.resources
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.CreateAccount.resources
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Login.resources
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Properties.Resources.resources
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.GenerateResource.cache
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfoInputs.cache
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfo.cs
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.CoreCompileInputs.cache
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\source\repos\Encryption\ServerClient\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.genruntimeconfig.cache
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.exe
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.deps.json
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.json
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.runtimeconfig.dev.json
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\bin\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.AssemblyReference.cache
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Client.resources
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.CreateAccount.resources
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Login.resources
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.Properties.Resources.resources
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.GenerateResource.cache
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfoInputs.cache
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.AssemblyInfo.cs
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.csproj.CoreCompileInputs.cache
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\ref\SimpleAsyncServerV2Security.dll
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.pdb
+C:\Users\mattb\Documents\Code\C#\Projects\C# ClientSever\SimpleAsyncServerV2Security\obj\Debug\net5.0-windows\SimpleAsyncServerV2Security.genruntimeconfig.cache

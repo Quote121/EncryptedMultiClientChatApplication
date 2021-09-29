@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleAsyncServerV2Security/1.0.0": {
+        "runtime": {
+          "SimpleAsyncServerV2Security.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleAsyncServerV2Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
